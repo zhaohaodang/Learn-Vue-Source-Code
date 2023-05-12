@@ -1,6 +1,6 @@
 const path = require("path");
 module.exports = {
-  base: "/Learn-Vue-Source-Code/",
+  base: "/",
   dest: "dist",
   title: "逐行剖析 Vue.js 源码",
   serviceWorker: true,
